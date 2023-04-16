@@ -1,0 +1,10 @@
+pierwsza linia
+druga linia
+trzecia linia
+czwarta linia
+piata linia
+szosta linia
+siodma linia
+osma linia
+dziewiata linia
+dziesiata linia
